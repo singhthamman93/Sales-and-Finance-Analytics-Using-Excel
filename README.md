@@ -52,6 +52,5 @@ Handling the duplicates, etc.
 *⏩Information:*
 
 1. Sales Performance report : Will help to undesrstand the Net sales across diffrent customers over the period of time.
-
   2. Finance Report or P&L report: It is the Fundamental insights of the company which helps to understand the important KPI parameters like Profit, Net sales,
 				Cost of Goods sold (COGS), Gross margin.
